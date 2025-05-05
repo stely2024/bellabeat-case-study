@@ -16,6 +16,5 @@ It was completed as part of the Google Data Analytics Professional Certificate.
 - `bellabeat-data.xlsx`: Cleaned dataset and pivot analysis
 - `bellabeat-kaggle-notebook.pdf`: Notebook summary (optional)
 
-## Author
-Stella Durante
+
 
