@@ -14,7 +14,7 @@ It was completed as part of the Google Data Analytics Professional Certificate.
 ## Files
 - `bellabeat-case-study.pptx`: Final presentation
 - `bellabeat-data.xlsx`: Cleaned dataset and pivot analysis
-- `bellabeat-kaggle-notebook.pdf`: Notebook summary (optional)
+
 
 
 
